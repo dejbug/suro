@@ -2,5 +2,6 @@
 *.obj
 *.lnk
 *.lst
+*.bat
 *.path
 /.local/
